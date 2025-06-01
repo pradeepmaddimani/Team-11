@@ -34,26 +34,28 @@ The Logout Page is kept simple and user-friendly with confirmation and redirecti
 
 📦 Git Commands I Used
 
-pwd                     → Check current directory
+pwd                               → Check current directory
 
-mkdir Team-11           → Create project folder
+mkdir Team-11_NewProject          → Create project folder
 
-cd Team-11              → Navigate to folder
+cd Team-11_NewProject             → Navigate to folder
 
-git init                → Initialize Git repository
+git init                          → Initialize Git repository
 
-git checkout  B1        → Create & switch to new branch
+git checkout  B1                  → Create & switch to new branch
 
-git add .               → Stage all changes
+git add .                         → Stage all changes
 
-git commit -m "message" → Save changes
+git commit -m "message"           → Save changes
 
-git merge B1            → Merge features into main
+git merge B1                      → Merge features into main
 
-git push                → Push project to GitHub
+git push                          → Push project to GitHub
 
 Getting started:
+
 To view the project:
+
 1.clone this report git clone["https://github.com/pradeepmaddimani/Team-11]
 
 2.open the folder 
