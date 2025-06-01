@@ -18,8 +18,6 @@ The Logout Page is kept simple and user-friendly with confirmation and redirecti
 
 - Implemented using HTML and CSS
 
-- No JavaScript used
-
 - Clean and minimal layout
 
 - Ensures session end feel and redirect message
@@ -29,7 +27,9 @@ The Logout Page is kept simple and user-friendly with confirmation and redirecti
 💻 Technologies Used
 
 - HTML  
+
 - CSS  
+
 - Git & GitHub
 
 📦 Git Commands I Used
